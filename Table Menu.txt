@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<body>
+<Table border="1">
+<caption><h1>Everyday Recipe</h1></caption>
+    <tr>
+<th colapan="7" align="center">Breakfast Menu</th>
+</tr>
+<td>Days</td>
+<td>Monday</td>
+            <td>Tuesday</td>
+			<td>Wedneaday</td>
+			<td>Thursday</td>
+			<td>Friday</td>
+    </tr>
+	     <tr>
+<th rowspan="3">Ingredients</th>
+<td>Row 2, Column 1</td>
+            <td>Row 2, Column 2</td>
+			<td>Row 2, Column 3</td>
+			<td>Row 2, Column 4</td>
+			<td>Row 2, Column 5</td>
+</tr>
+        <tr>
+<td>Row 3, Column 1</td>
+            <td>Row 3, Column 2</td>
+			<td>Row 3, Column 3</td>
+			<td>Row 3, Column 4</td>
+			<td>Row 3, Column 5</td>
+		</tr>
+		<tr>
+		    <td>Row 4, Column 1</td>
+			<td>Row 4, Column 2</td>
+			<td>Row 4, Column 3</td>
+			<td>Row 4, Column 4</td>
+			<td>Row 4, Column 5</td>
+	    </tr>
+<tr>
+<th rowspan="3">Serving Size</th>
+            <td>Row 5, Column 1</td>
+			<td>Row 5, Column 2</td>
+			<td>Row 5, Column 3</td>
+			<td>Row 5, Column 4</td>
+			<td>Row 5, Column 5</td>
+	    </tr>
+<tr>
+            <td>Row 4, Column 1</td>
+			<td>Row 4, Column 2</td>
+			<td>Row 4, Column 3</td>
+			<td>Row 4, Column 4</td>
+			<td>Row 4, Column 5</td>
+		</tr>
+<tr>
+            <td>Row 4, Column 1</td>
+			<td>Row 4, Column 2</td>
+			<td>Row 4, Column 3</td>
+			<td>Row 4, Column 4</td>
+			<td>Row 4, Column 5</td>
+		</tr>
+</table>
+</body>
+</html>
